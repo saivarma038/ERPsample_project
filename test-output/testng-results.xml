@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T16:13:02 IST" name="Default suite" finished-at="2024-03-18T16:13:12 IST" duration-ms="10382">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T16:13:02 IST" name="Default test" finished-at="2024-03-18T16:13:12 IST" duration-ms="10382">
+      <class name="sample_project.Frameworks">
+        <test-method is-config="true" signature="generateReports()[pri:0, instance:sample_project.Frameworks@61df66b6]" started-at="2024-03-18T16:13:02 IST" name="generateReports" finished-at="2024-03-18T16:13:02 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample_project.Frameworks@61df66b6]" started-at="2024-03-18T16:13:02 IST" name="setup" finished-at="2024-03-18T16:13:12 IST" duration-ms="9614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="passtest()[pri:0, instance:sample_project.Frameworks@61df66b6]" started-at="2024-03-18T16:13:12 IST" name="passtest" finished-at="2024-03-18T16:13:12 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passtest -->
+      </class> <!-- sample_project.Frameworks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
